@@ -4,8 +4,8 @@ Hello Fellas,
 
 My name is Pablo Racana, this is a little introduction about myself, for my macroeconometrics class.
 
-I was born in Bs. As. Argentina in 1990, I'm studen of Magister in Economia in Diego Portales university.
+I was born in Bs. As. Argentina in 1990, I'm student of Magister in Economics in Diego Portales university.
 
-My hobbies are, futbol, sports in general, technology and .
+My hobbies are, futbol, sports in general, technology and San Lorenzo futbol fan the biggest futbol team in the world.
 
-###This is for my Nerd Badge###
+### See ya
